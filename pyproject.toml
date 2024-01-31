@@ -1,5 +1,5 @@
 [project]
-name = "stancountry_harshil0217"
+name = "stancountry"
 version = "0.0.1"
 authors = [
   { name="Harshil Chidura", email="harshil0217@gmail.com" },
