@@ -247,8 +247,7 @@ extra = {
     "China, People's Republic of": 'CN',
     'Congo, Dem. Rep. of the': 'CD',
     'Micronesia, Fed. States of': 'FM',
-    'West Bank and Gaza Strip': 'PS',
-    'Turkey': 'TR'
+    'West Bank and Gaza Strip': 'PS'
 }
 
 for key, value in extra.items():
