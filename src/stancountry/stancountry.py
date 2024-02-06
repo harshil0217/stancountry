@@ -248,7 +248,14 @@ extra = {
     'Congo, Dem. Rep. of the': 'CD',
     'Micronesia, Fed. States of': 'FM',
     'West Bank and Gaza Strip': 'PS',
-    'Turkey': 'TR'
+    'Turkey': 'TR',
+    'Burma/Myanmar': 'MM',
+    'Palestine/Gaza': 'PS',
+    'Palestine/West Bank': 'PS',
+    'The Gambia': 'GM',
+    'Zanzibar': 'TZ'
+    
+    
 }
 
 for key, value in extra.items():
